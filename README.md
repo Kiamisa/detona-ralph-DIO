@@ -22,18 +22,18 @@ Para jogar este jogo localmente, siga os passos abaixo:
 1. Clone o repositório ou faça o download do código fonte.
    ```bash
    git clone https://github.com/seu-usuario/nome-do-repositorio.git
-
+```
 2. Navegue até o diretório do projeto.
 
-bash
+```bash
 
     cd nome-do-repositorio
-
+```
 3. Abra o arquivo index.html em um navegador da sua escolha.
 
 Estrutura do Projeto
 
-bash
+```bash
 
 /jogo-acerto-quadrados
 │
@@ -51,7 +51,7 @@ bash
 │   │   └── wall.png    # Imagem da parede
 │   └── scripts
 │       └── engine.js   # Lógica do jogo em JavaScript
-
+```
 Contribuição
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests.
